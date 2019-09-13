@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1532037805 source:c:\programming\personal\c\shogi\main.c
+	"ShogiBoardControl.h"
+	"ShogiPieces.h"
+	<stdio.h>
+
+1532037933 c:\programming\personal\c\shogi\shogiboardcontrol.h
+	<ctype.h>
+	<stdbool.h>
+
+1532038037 c:\programming\personal\c\shogi\shogipieces.h
+	"ShogiBoardControl.h"
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+
+1532037874 source:c:\programming\personal\c\shogi\shogiboardcontrol.c
+	"ShogiBoardControl.h"
+	"ShogiPieces.h"
+	<stdio.h>
+
+1532037988 source:c:\programming\personal\c\shogi\shogipieces.c
+	"ShogiPieces.h"
+	<stdio.h>
+
